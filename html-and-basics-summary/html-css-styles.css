@@ -1,0 +1,87 @@
+body {
+  background-color: rgb(247, 247, 253);
+  font-family: 'Roboto', sans-serif;
+}
+
+header {
+  text-align: center;
+}
+
+header h1 {
+  font-size: 70px;
+  font-weight: 900;
+  color: rgb(129, 59, 187);
+}
+header img {
+  width: 300px;
+}
+
+main {
+  width: 800px;
+  background-color: rgb(144, 53, 219);
+  color: white;
+  margin: 50px auto 50px auto;
+  padding: 30px 15px 80px 15px;
+  border-radius: 10px;
+}
+
+main h1 {
+  font-weight: 900;
+}
+
+#dont {
+  font-weight: 900;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  margin: 14px 0px;
+  padding-left: 14px;
+}
+
+.color-font {
+  color: rgb(153, 130, 121);
+  border-left: 5px solid rgb(247 209 85);
+}
+
+.color-font2 {
+  color: rgb(153, 130, 121);
+  border-left: 5px solid rgb(247 209 85);
+}
+
+.new-style {
+  background-color: rgb(165, 118, 118);
+}
+
+a {
+  text-decoration: none;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+a:hover {
+  background-color: blue;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  background-color: yellow;
+  color: black;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+footer p {
+  color: rgb(139, 135, 135);
+  margin-top: 30px;
+}
